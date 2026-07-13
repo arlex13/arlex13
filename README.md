@@ -1,10 +1,10 @@
-# Wilson Alexander Caal Pacay (Arlex)
+#  (Arlex)
 
 **QA Automation Engineer · DevSecOps** — Diseño suites de automatización con Cypress,
 pipelines CI/CD con seguridad integrada (SCA, Trivy, OWASP ZAP) y procesos de calidad
 trazables de extremo a extremo.
 
-📍 Alta Verapaz, Guatemala
+📍 Guatemala
 
 ## Stack
 
@@ -28,5 +28,4 @@ trazables de extremo a extremo.
 
 ## Contacto
 
-[![Email](https://img.shields.io/badge/Email-arlexcaal%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:arlexcaal@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilsonalexandercaalpacay/)
